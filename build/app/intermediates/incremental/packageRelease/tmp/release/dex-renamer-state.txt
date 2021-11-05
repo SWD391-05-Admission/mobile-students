@@ -1,0 +1,4 @@
+#Fri Nov 05 03:37:30 ICT 2021
+base.0=D\:\\FPT University\\mobile-student\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
